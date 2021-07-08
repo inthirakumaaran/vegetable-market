@@ -1,4 +1,4 @@
-# Vetable Market Application
+# Vegitable Market Application
 
 ## Introduction
 This is a simple distributed application for vegetable sales system written using Go language and Remote Procedure Calls (RPC). 
